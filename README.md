@@ -1,6 +1,6 @@
 # B+ Tree Implementation
 
-## Suppoted Queries:
+## Supported Queries:
 1. `INSERT X` - insert X into the B+ tree
 2. `FIND X` - print YES if X is already inserted, else NO
 3. `COUNT X` - print number of occurrences of X in B+tree
