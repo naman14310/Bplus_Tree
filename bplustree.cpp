@@ -1,3 +1,10 @@
+/*
+Program : B+ Trees for MultiIndexing Queries
+Author : Naman Jain
+Language Used : C++
+*/
+
+
 #include<bits/stdc++.h>
 #include <fstream>
 #define ORDER 3
